@@ -37,5 +37,4 @@ jobs:
     - name: Test with pytest
       run: |
         pytest
-- name: Download a Build Artifact
-  uses: actions/download-artifact@v2
+
